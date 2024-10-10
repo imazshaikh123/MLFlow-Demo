@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Imaz%20Shaikh/MLFLow/MLFlow-Demo/mlruns/0/4a7ca83150824391b882a0bd8099a426/artifacts
+end_time: 1728571387135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a7ca83150824391b882a0bd8099a426
+run_name: rogue-fowl-63
+run_uuid: 4a7ca83150824391b882a0bd8099a426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728571379060
+status: 3
+tags: []
+user_id: Imaz Shaikh

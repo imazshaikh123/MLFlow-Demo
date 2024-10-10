@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Imaz%20Shaikh/MLFLow/MLFlow-Demo/mlruns/0/244ac00d2cdb4880825f8bb1cb0af0b4/artifacts
+end_time: 1727498794467
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 244ac00d2cdb4880825f8bb1cb0af0b4
+run_name: magnificent-fawn-327
+run_uuid: 244ac00d2cdb4880825f8bb1cb0af0b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727498790844
+status: 3
+tags: []
+user_id: Imaz Shaikh
